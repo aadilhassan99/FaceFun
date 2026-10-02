@@ -1,6 +1,6 @@
-# Human Counter
+# Face Fun
 
-Human Counter is a lightweight, browser-based face detection app built with **Next.js**, **React**, **TypeScript**, **pnpm workspaces**, and **MediaPipe Tasks Vision**.
+Face Fun is a lightweight, browser-based face detection app built with **Next.js**, **React**, **TypeScript**, **pnpm workspaces**, and **MediaPipe Tasks Vision**.
 
 Use your webcam for live face detection or upload an image to scan it. Detected faces are outlined with green bounding boxes, and the app displays the number of faces detected.
 
