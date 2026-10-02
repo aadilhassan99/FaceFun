@@ -1,0 +1,14 @@
+{
+  "name": "human-counter",
+  "private": true,
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.17.1",
+  "scripts": {
+    "dev": "pnpm --filter @human-counter/web dev",
+    "build": "pnpm --filter @human-counter/web build",
+    "lint": "pnpm --filter @human-counter/web lint"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
