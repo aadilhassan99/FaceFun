@@ -26,7 +26,7 @@ Use your webcam for live face detection or upload an image to scan it. Detected 
 ## Project structure
 
 ```text
-human-counter/
+FaceFun/
 ├── apps/
 │   └── web/                  # Next.js web application
 │       └── src/
